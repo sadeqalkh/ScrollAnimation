@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+}
+
+.block {
+    height: 300px;
+    width: 90%;
+    margin: 5%;
+    border: 2px solid black;
+
+}
+.desert{
+  font-size: 2vw;
+  position: relative;
+  height: 1000px;
+  width: 90%;
+  margin: 5%;
+  padding-bottom: 4vw;
+text-align: center;
+
+}
+.car{
+  padding-bottom: 4vw;
+  position: relative;
+  font-size: 2vw;
+  height: 500px;
+  width: 90%;
+  margin: 5%;
+text-align: center;
+}
+.equipment{
+  padding-top: 4vw;
+  position: relative;
+  font-size: 2vw;
+  height: 800px;
+  width: 90%;
+  margin: 5%;
+  text-align: center;
+}
+.PIC4{
+  width: 80%;
+}
+.carroad{
+  padding-top: 4vw;
+  font-size: 2vw;
+  height: 500px;
+  width: 70%;
+  margin:15%;
+  text-align: center;
+}
+.cardesert{
+  padding-top: 4vw;
+  font-size: 2vw;
+  height: 1000px;
+  width: 90%;
+  margin: 5%;
+  text-align: center;
+}
+.students{
+  padding-top: 4vw;
+  font-size: 2vw;
+  height: 1000px;
+  width: 90%;
+  margin: 5%;
+  text-align: center;
+
+}
+.camera{
+  padding-top: 4vw;
+  font-size: 2vw;
+  height: 1000px;
+  width: 90%;
+  margin: 5%;
+  text-align: center;
+
+}
+.missionfailed{
+  padding-top: 4vw;
+  font-size: 2vw;
+  height: 500px;
+  width: 90%;
+  margin: 5%;
+text-align: center;
+}
+
+.top{
+    width: 100vw;
+    height: 30vh;
+    background-color: lightblue;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    font-size: 5vw;
+    text-align: center;
+    font-family: sans-serif;
+
+
+}
